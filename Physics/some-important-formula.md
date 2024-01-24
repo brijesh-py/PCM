@@ -261,7 +261,7 @@
 ```
 35. **Velocity Gradient:**
 ```
-    - Formula:  Change in Velocity Distance
+    - Formula:  Change in Velocity / Distance
     - Or: Δv / S
     - Dimensional Formula: [LT-²]
     - SI Unit: meter per second squared (m/s²)
